@@ -25,5 +25,13 @@
   "devDependencies": {
     "concurrently": "^5.1.0",
     "nodemon": "^2.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keertijanm/devbook_keerti.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Keertijanm/devbook_keerti/issues"
+  },
+  "homepage": "https://github.com/Keertijanm/devbook_keerti#readme"
 }
